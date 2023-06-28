@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Layout from './components/Layout';
 function App() {
   return (
     <div className="App">
-     <h1 className='text-4xl text-red-500'>Helllo</h1>
+     <Layout>
+      
+     </Layout>
     </div>
   );
 }
