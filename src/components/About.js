@@ -7,7 +7,7 @@ const About = () => {
         <h1 className='text-3xl text-center'>About the application </h1>
 
         <div className='py-10 text-xl'>
-          Design a web page that acts as a social media rewriter. The page should contain an EditText field, six buttons, and six Textfields associated with each button. The six buttons should have icons representing popular social media platforms such as WhatsApp, Email, LinkedIn, Twitter, Instagram, and Facebook. When a button is clicked, the text entered in the EditText field should be displayed in the associated Textfield.
+          Designed a web page that acts as a social media rewriter. The page contains an EditText field, six buttons, and six text fields associated with each button. The six buttons have icons representing popular social media platforms such as WhatsApp, Email, LinkedIn, Twitter, Instagram, and Facebook. When a button is clicked, the text entered in the EditText field is displayed in the associated text field.
         </div>
       </div>
     </div>
