@@ -24,7 +24,7 @@ _Below are the instruction on how you can run  install and set up your app._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/deep-69bits/GOClasses.git
+   git clone https://github.com/deep-69bits/QurickSocial.git
    ```
 2. Enter in the folder
    ```sh
